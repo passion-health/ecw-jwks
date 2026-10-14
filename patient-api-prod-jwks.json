@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "patient-api-prod-key-1",
+      "use": "sig",
+      "alg": "RS384",
+      "n": "woB7QhLHBoO1AjGm9eYU5oFj8ukawOvIchbHjTuPwmE975CSuxqoo_lhX5pyvTnNtkJVf_T3_whqyCYsQq6JmMJlF601uNMqE7ucZQ1Z7FbK5rxKokF5r2ySDfk1q-K14jzKXMYF4yh1CEUPEojVJf6uSDgRztsiRwwdPR5smVNWwGmYSeYQSQibTsqdj-hEMLk2OIJg3KLkdX3gEJd_DS5-rrT48X2eQScJhojLwtQDQq1ly3K_IYd5hEyuP70Wq-2iuirHk76amxzsSn8prysSsre3PlFHGoAXiZb41IiEhQemq44qdotWSHyWiCrJWdVwowfiDtwREa9EJ53abQ",
+      "e": "AQAB"
+    }
+  ]
+}
